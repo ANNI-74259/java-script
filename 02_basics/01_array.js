@@ -1,27 +1,35 @@
 // array
- const Arr= [0,1,2,3,4,5]
- const mixArr = [1,2,"anni","sam"]
+  const Arr =[0,1,2,3,4,5,6]
+  const mixArr = [1,2,"anni","sam"]
 
- console.log(Arr);
- //console.log(Arr[4]);
- //console.log(mixArr);
+console.log(Arr);
+// console.log(mixArr);
 
-//Array methods
-// Arr.push(7)
-// Arr.push(9)
-// Arr.pop()
+// const myArr= new Array(1,2,3,4,5) 
 
-// Arr.unshift(9)
-// myArr.shift()
+//  console.log(myArr);
+//  console.log(Arr[4]);
 
+                        //  array method
+ 
+          
+//  Arr.push(3)
+//  Arr.push(9)     //add ele. in last 
+//  Arr.pop()
+
+// Arr.unshift(9)   //add ele in starting
+// myArr.shift()    // delete ele from satrting 
 
 // console.log(Arr.includes(5));
 // console.log(Arr.indexOf(3));
 
-const nArr=Arr.join()
+
+
+const newArr = Arr.join()
 
 // console.log(Arr);
-// console.log(nArr);
+//  console.log(newArr);
+
 
 //   slice and splice
 
