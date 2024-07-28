@@ -3,7 +3,7 @@
 
 (function chai(){
     // named IIFE
-    console.log(`DB CONNECTED`);
+    console.log(`DB CONNECTED`);  //THIS IS NAMED IIFE
 })();
 
 //ek iife ke baad dusra iife likhne ke liye first iife ke baad ; lagate hai otherwise error show karta hai  imp*
